@@ -1,24 +1,9 @@
-# README
+# CVWO Mid-assignment Submission  
+**Name:** Kevin Chua  
+**Matriculation Number:** A0164584W  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Screenshot of Rails Startup Screen
+[Rails Startup Screen](./mid-assignment/Rails-Startup-Screen.png)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Write-up on use cases and execution plan
+[CVWO Mid-Assignment Writeup](./mid-assignment/CVWO-Mid-Assignment-Writeup.pdf)
