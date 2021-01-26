@@ -1,9 +1,9 @@
-# CVWO Mid-assignment Submission  
-**Name:** Kevin Chua  
-**Matriculation Number:** A0164584W  
+# CVWO Assignment Submission  
+**Name:** Kevin Chua   
+**Matriculation Number:** A0164584W   
 
-## Screenshot of Rails Startup Screen
-[Rails Startup Screen](./mid-assignment/Rails-Startup-Screen.png)
+## Proof of working application  
+https://www.todomi.xyz
 
-## Write-up on use cases and execution plan
-[CVWO Mid-Assignment Writeup](./mid-assignment/CVWO-Mid-Assignment-Writeup.pdf)
+## Write-up on accomplishments and user manual  
+[CVWO Final-Assignment Writeup](./final-assignment/Final-Assignment-Writeup.pdf)
